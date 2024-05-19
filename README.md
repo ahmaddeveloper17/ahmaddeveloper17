@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **React js**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Android,web Applications**
 
 - 📫 How to reach me **ahmaddeveloper17@gmail.com**
 
