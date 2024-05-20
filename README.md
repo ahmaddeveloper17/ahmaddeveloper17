@@ -17,9 +17,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
 
-- 🔭 I’m currently working on **Read me**
+- 🔭 I’m currently working in **TechloSet Soution**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **Android,web Applications**
 
