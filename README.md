@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 What I Do<br><br>🌐 Full-Stack Web Development (MERN Stack)<br>⚡ SaaS Product Development<br>🤖 AI-powered applications (TTS, Voice Cloning, AI tools)<br>🎨 UI/UX focused frontend engineering<br>🚀 SEO-optimized Next.js applications<br>🧩 API design & backend architecture<br><br>🏆 Featured Work / Projects<br><br>🎙️ Sonex AI – AI Text-to-Speech & Voice Cloning SaaS<br>(Built with Next.js, Prisma, Modal, Cloudflare, Polar billing)<br>🧠 AI Resume Builder Platform<br>🌐 Multiple SEO-optimized SaaS platforms (Next.js based)<br>🎮 Gaming tools & nickname generator platform (TheNickFinder)<br><br>📈 Achievements<br>🥇 Winner – All Pakistan Business Idea Competition (Sonex AI)<br>🚀 Built SaaS platforms with early organic traction (150+ impressions in 1 days)<br>🧑‍💻 Active in multiple tech expos, startup events, and competitions<br>📊 Strong focus on performance-first development (Lighthouse optimized projects)
+💼 What I Do<br><br>🌐 Full-Stack Web Development (MERN Stack)<br>⚡ SaaS Product Development<br>🤖 AI-powered applications (TTS, Voice Cloning, AI tools)<br>🎨 UI/UX focused frontend engineering<br>🚀 SEO-optimized Next.js applications<br>🧩 API design & backend architecture<br><br>🏆 Featured Work / Projects<br><br>🎙️ Sonex AI – AI Text-to-Speech & Voice Cloning SaaS<br>(Built with Next.js, Prisma, Modal, Cloudflare, Polar billing)<br>🧠 AI Resume Builder Platform<br>🌐 Multiple SEO-optimized SaaS platforms (Next.js based)<br>🎮 Gaming tools & nickname generator platform (TheNickFinder)<br><br>📈 Achievements<br><br>🥇 Winner – All Pakistan Business Idea Competition (Sonex AI)<br>🚀 Built SaaS platforms with early organic traction (150+ impressions in 1 days)<br>🧑‍💻 Active in multiple tech expos, startup events, and competitions<br>📊 Strong focus on performance-first development (Lighthouse optimized projects)
 
 
 ## 🌐 Socials:
@@ -13,12 +13,12 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmaddeveloper17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmaddeveloper17&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ahmaddeveloper17&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahmaddeveloper17&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ahmaddeveloper17&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ahmaddeveloper17&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=ahmaddeveloper17&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
